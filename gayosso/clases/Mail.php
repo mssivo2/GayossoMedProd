@@ -18,12 +18,12 @@ Class Mail {
     private $to;
 
     function __construct() {
-        $this->base_url = "https://phpstack-480688-3443177.cloudwaysapps.com";
+        $this->base_url = "https://www.gayossomed.com";
         $this->host ='correo.gayosso.com';
         $this->username ='paginaweb@gayosso.com';
         $this->password = 'P4g1N4W3b19$';
-        $this->from = array('jcarlos@hashtag.com.mx' => 'Gayosso'); // solo uno puede enviar
-        $this->to = array('jcarlos@hashtag.com.mx' => 'Juan Carlos'); // se pueden agregar mas destinatarios
+        $this->from = array('paginaweb@gayosso.com' => 'Gayosso'); // solo uno puede enviar
+        $this->to = array('ccompaired@gayosso.com' => 'Christian Compaired'); // se pueden agregar mas destinatarios
 
     }
 

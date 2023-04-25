@@ -12,8 +12,8 @@
 				<div class="card-body">
 					<h4>Gayosso</h4>
 					<a href="https://www.prevision-gayosso.com/proteccion-familiar/clkn/https/gayosso.com/unete-a-nuestro-equipo">Únete A Nuestro Equipo</a>
-					<a href="/avisodeprivacidad">Aviso de Privacidad Integral</a>
-					<a href="/terminosycondiciones">Términos y Condiciones</a>
+					<a href="/avisodeprivacidad.php">Aviso de Privacidad Integral</a>
+					<a href="/terminosycondiciones.php">Términos y Condiciones</a>
 				</div>
 			</div>
 		</div>

@@ -54,8 +54,8 @@
 						<p class="txt_btn_main">Descarga nuestra aplicación o contáctanos al <a class="colorwhite" href="tel:+528009532054">8009532054</a> y al <a class="colorlight " href="tel:+525594173566">5594173566</a> para agendar una cita. </p>
 					</div>
 					<div class="text-center btn_apps">
-						<a href="#" class="btn_img_app"><img src="assets/images/btn-googleplay.png" alt="Descarga aplicación Android"></a>
-						<a href="#" class="btn_img_app"><img src="assets/images/btn-appstore.png" alt="Descarga aplicación ios"></a>
+						<a href="https://play.google.com/store/apps/details?id=com.meddi.Gayosso" class="btn_img_app"><img src="assets/images/btn-googleplay.png" alt="Descarga aplicación Android"></a>
+						<a href="https://apps.apple.com/mx/app/gayossomed/id6449550821" class="btn_img_app"><img src="assets/images/btn-appstore.png" alt="Descarga aplicación ios"></a>
 					</div>
 				</div>
 			</div>

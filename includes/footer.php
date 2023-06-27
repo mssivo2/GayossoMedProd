@@ -11,7 +11,7 @@
 			<div class="noborder">
 				<div class="card-body">
 					<h4>Gayosso</h4>
-					<a href="https://www.prevision-gayosso.com/proteccion-familiar/clkn/https/gayosso.com/unete-a-nuestro-equipo">Únete A Nuestro Equipo</a>
+					<a href="https://gayosso.com/unete-a-nuestro-equipo">Únete A Nuestro Equipo</a>
 					<a href="/avisodeprivacidad">Aviso de Privacidad Integral</a>
 					<a href="/terminosycondiciones">Términos y Condiciones</a>
 				</div>
@@ -21,13 +21,13 @@
 			<div class="noborder np_0">
 				<div class="card-body">
 					<h4>Clientes</h4>
-					<a href="https://www.prevision-gayosso.com/proteccion-familiar/clkn/https/lirio.gayosso.com:442/pages/Pagos/solicitud">Pago en línea plan de previsión</a>
-					<a href="https://www.prevision-gayosso.com/proteccion-familiar/clkn/https/gayosso.com/mantenimiento-mausoleos-y-cementerios">Mantenimiento Mausoleos y Cementerios</a>
-					<a href="https://www.prevision-gayosso.com/proteccion-familiar/clkn/https/gayosso.com/directorio-de-atencion-a-cliente-post-venta">Directorio de atención a cliente post venta</a>
-					<a href="https://www.prevision-gayosso.com/proteccion-familiar/clkn/https/gayosso.com/directorio-de-atencion-a-cliente-post-venta">Consulta tu factura electrónica</a>
-					<a href="https://www.prevision-gayosso.com/proteccion-familiar/clkn/https/gayosso.com/directorio-de-atencion-a-cliente-post-venta">Consulta Estado de Cuenta</a>
-					<a href="https://www.prevision-gayosso.com/proteccion-familiar/clkn/https/api-cms.gayosso.com/storage/documentos/anexo_para_designacion_de_beneficiarios_titular_sustituto_y_usuarios.pdf">Formato para designación beneficiario</a>
-					<a href="https://www.prevision-gayosso.com/proteccion-familiar/clkn/https/api-cms.gayosso.com/storage/documentos/anexo_para_designacion_de_beneficiarios_titular_sustituto_y_usuarios.pdf">Actualización Régimen Fiscal y Uso CFDI</a>
+					<a href="https://lirio.gayosso.com:442/pages/Pagos/solicitud">Pago en línea plan de previsión</a>
+					<a href="https://gayosso.com/mantenimiento-mausoleos-y-cementerios">Mantenimiento Mausoleos y Cementerios</a>
+					<a href="https://gayosso.com/directorio-de-atencion-a-cliente-post-venta">Directorio de atención a cliente post venta</a>
+					<a href="https://clientesfactura.gayosso.com/edoctagayosso/consultafe/FrmConsultaFE.jsp">Consulta tu factura electrónica</a>
+					<a href="https://clientesfactura.gayosso.com/edoctagayosso/ConsultaEdoCta/FrmSaldos.jsp">Consulta Estado de Cuenta</a>
+					<a href="https://api-cms.gayosso.com/storage/documentos/anexo_para_designacion_de_beneficiarios_titular_sustituto_y_usuarios.pdf">Formato para designación beneficiario</a>
+					<a href="https://lirio.gayosso.com:442/pages/cli/consulta">Actualización Régimen Fiscal y Uso CFDI</a>
 				</div>
 			</div>
 		</div>

@@ -144,7 +144,8 @@
 					</li>
 					<li><a href="#privacidad"><strong>13. PRIVACIDAD</strong></a>
 						<ul>
-							<li><a href="#calcelacion_bloqueo_informacion">13.1 CANCELACIÓN Y BLOQUEO DE INFORMACIÓN</a></li>
+							<li><a href="#derecho_al_acceso">13.1 DERECHO AL ACCESO, RECTIFICACIÓN, CANCELACIÓN Y OPOSICIÓN DE SUS DATOS PERSONALES</a></li>
+							<li><a href="#calcelacion_bloqueo_informacion">13.2 CANCELACIÓN Y BLOQUEO DE INFORMACIÓN</a></li>
 						</ul>
 					</li>
 					<li><a href="#confidencialidad"><strong>14. CONFIDENCIALIDAD</strong></a></li>

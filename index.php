@@ -205,7 +205,7 @@
 						<div class="col-12 col-md-12 col-lg-6">
 							<div class="card mb-4 boxlogos noborder">
 								<div class="centerblock">
-									<img src="assets/images/log_prevision_gayosso.png" alt="Previsión Gayosso">
+									<img src="assets/images/new_log_prevision_gayosso.png" alt="Previsión Gayosso">
 									<img src="assets/images/log_gayosso_med.png" alt="Gayosso Med">
 									<img src="assets/images/log_gayosso_contigo.png" alt="Gayosso Contigo">
 								</div>

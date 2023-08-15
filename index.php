@@ -137,7 +137,7 @@
 								<li>Cardiología.</li>
 								<li>Trastornos del sueño, entre muchas otras.</li>
 							</ul>
-						<p class="especialidades">Por ser cliente gayosso, tienes derecho a 1 consulta al año para ti, cónyugue o hijos son costo al padecer estos padecimientos.</p>
+						<p class="especialidades">Por ser cliente gayosso, tienes derecho a 1 consulta al año para ti, cónyugue o hijos sin costo al padecer estos padecimientos.</p>
 						<p class="especialidades"><strong>Para la validación y generación de cita de segunda opinión y dudas comunícate al Call center de Protección Familiar <a class="phon" href="tel:+528004610556">800 461 0556</a></strong></p>
 					</div>
 				</div>

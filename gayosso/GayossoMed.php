@@ -12,6 +12,9 @@ $phone = htmlspecialchars(trim( $_POST['phone'] ));
 $email = htmlspecialchars(trim( $_POST['email'] ));
 $state = htmlspecialchars(trim( $_POST['state'] ));
 $interest = htmlspecialchars(trim( $_POST['interest'] ));
+$utm_source = htmlspecialchars(trim( $_POST['utm_source'] ));
+$utm_campaign = htmlspecialchars(trim( $_POST['utm_campaign'] ));
+$utm_content = htmlspecialchars(trim( $_POST['utm_content'] ));
 
 $data_mail['name'] = $name;
 $data_mail['lastname'] = $lastname;
@@ -20,26 +23,15 @@ $data_mail['email'] = $email;
 $data_mail['state'] = $state;
 $data_mail['interest'] = $interest;
 
-/*$data['agency'] = $request->input('agency');*/
-$data['firstname']  = $name;
-$data['middlename'] = $lastname;
-$data['lastname'] = "";
-$data['emailaddress1'] = $email;
-$data['address1_telephone1'] = "";
-$data['address1_telephone2'] = $phone;
-$data['address1_telephone3'] = "";
-$data['gys_codigopostalid'] = "";
-$data['gys_dependientes_economicos'] = "0";
-$data['gys_tarjeta_credito'] = "0";
-$data['gys_estado'] = $state;
-$data['gys_delegacion_municipio'] = "";
-$data['gys_plaza'] = "";
-$data['description'] = "";
-$data['campaignid'] = "";
-$data['gys_fuenteweb'] = "wwwgayosso";
-$data['new_identificadordeprospecto'] = "WWWGAYOSSO";
-$data['crmStatus'] = "0";
-$data['fecha'] = date('Y-m-d\TH:i:s.v');
+$data['source_url'] = "https://gayossomed.com";
+$data['source_name'] = "Landing Gayossomed-".$utm_source;
+$data['campaign'] =  "HASHTAG-GAYOSSOMED-".$utm_campaign."-".$utm_content;
+$data['name']  = $name;
+$data['lastname'] = $lastname;
+$data['email'] = $email;
+$data['phone'] = $phone;
+$data['state'] = $state;
+$data['interest'] = $interest;
 
 
 if (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest') {

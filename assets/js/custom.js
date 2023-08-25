@@ -1,4 +1,22 @@
 $(document).on('ready',function(){  
+  function getUtm(name) {
+      var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+      return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+  }
+  var utmSource = getUtm('utm_source');
+  var utmCampaign = getUtm('utm_campaign');
+  var utmContent = getUtm('utm_content');
+  if (utmSource) {
+      $('#utm_source').val(utmSource);
+  }
+  if (utmCampaign) {
+      $('#utm_campaign').val(utmCampaign);
+  }
+  if (utmContent) {
+      $('#utm_content').val(utmContent);
+  }
+
+
   $("#form-gayosso").submit(function( event ) {    
       event.preventDefault();
       var params = {                      
@@ -7,7 +25,10 @@ $(document).on('ready',function(){
         "phone" : $("#phone").val(),      
         "email" : $("#email").val(),            
         "state" : $("#state").val(),      
-        "interest" : $("#interest").val(),      
+        "interest" : $("#interest").val(), 
+        "utm_source" : $("#utm_source").val(),            
+        "utm_campaign" : $("#utm_campaign").val(),      
+        "utm_content" : $("#utm_content").val(),      
     };
     var url = "/gayosso/GayossoMed.php";
     $(document).ajaxStart(function () {

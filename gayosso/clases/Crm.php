@@ -22,14 +22,26 @@ Class Crm {
     }
 
     public function call_url($method = "GET", $data = array()){
-        $json_data = json_encode($data);
-        $curl = curl_init($this->url_crm);
-        curl_setopt($curl, CURLOPT_POST, true);
-        curl_setopt($curl, CURLOPT_POSTFIELDS, $json_data);
-        curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-        curl_setopt($curl, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));        
-        $response = curl_exec($curl);           
-        return ($response === false) ? curl_error($curl) : true;                    
+            $json_data = json_encode($data);
+			$ch = curl_init();
+			curl_setopt($ch, CURLOPT_URL, $this->url_crm);
+			curl_setopt($ch, CURLOPT_POST, true);
+			curl_setopt($ch, CURLOPT_POSTFIELDS, $json_data);
+			curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+			curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+			curl_setopt($ch, CURLOPT_HTTPHEADER,
+				array(
+					'Content-Type: application/json',
+					'Authorization: Bearer 10247|8VRaiK27NXIMCbeImNE4P3wiDwyXRIVBgWeKL5lL'
+				  )
+			);
+			//curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+			//curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 2);
+			curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false); //medida temporal para pruebas
+			curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0); //medida temporal para pruebas
+			$response = curl_exec($ch);
+			return ($response === false) ? curl_error($ch) : true ;
+			curl_close($ch);                   
     
     }
 }

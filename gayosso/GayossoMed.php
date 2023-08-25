@@ -5,7 +5,6 @@ require_once 'clases/Crm.php';
 use gayosso\clases\Mail;
 use gayosso\clases\Crm;
 
-
 $name = htmlspecialchars(trim( $_POST['name'] ));
 $lastname = htmlspecialchars(trim( $_POST['lastname'] ));
 $phone = htmlspecialchars(trim( $_POST['phone'] ));

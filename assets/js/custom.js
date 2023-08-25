@@ -16,7 +16,6 @@ $(document).on('ready',function(){
       $('#utm_content').val(utmContent);
   }
 
-
   $("#form-gayosso").submit(function( event ) {    
       event.preventDefault();
       var params = {                      

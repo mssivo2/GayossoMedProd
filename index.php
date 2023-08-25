@@ -244,39 +244,55 @@
 					<!-- -->
   					<label for="state" class="sr-only">Estado</label>
   					<select type="text" id="state" class="form-control" placeholder="Estado" required>					  
-					  	<option value="">Seleccione el estado</option>
-						    <option value="Aguascalientes">Aguascalientes</option>
-							<option value="Baja California">Baja California</option>
-							<option value="Baja California Sur">Baja California Sur</option>
-							<option value="Campeche">Campeche</option>
-							<option value="Coahuila de Zaragoza">Coahuila de Zaragoza</option>
-							<option value="Colima">Colima</option>
-							<option value="Chiapas">Chiapas</option>
-							<option value="Chihuahua">Chihuahua</option>
-							<option value="Ciudad de México">Ciudad de México</option>
-							<option value="Durango">Durango</option>
-							<option value="Guanajuato">Guanajuato</option>
-							<option value="Guerrero">Guerrero</option>
-							<option value="Hidalgo">Hidalgo</option>
-							<option value="Jalisco">Jalisco</option>
-							<option value="México">México</option>
-							<option value="Michoacán de Ocampo">Michoacán de Ocampo</option>
-							<option value="Morelos">Morelos</option>
-							<option value="Nayarit">Nayarit</option>
-							<option value="Nuevo León">Nuevo León</option>
-							<option value="Oaxaca">Oaxaca</option>
-							<option value="Puebla">Puebla</option>
-							<option value="Querétaro">Querétaro</option>
-							<option value="Quintana Roo">Quintana Roo</option>
-							<option value="San Luis Potosí">San Luis Potosí</option>
-							<option value="Sinaloa">Sinaloa</option>
-							<option value="Sonora">Sonora</option>
-							<option value="Tabasco">Tabasco</option>
-							<option value="Tamaulipas">Tamaulipas</option>
-							<option value="Tlaxcala">Tlaxcala</option>
-							<option value="Veracruz de Ignacio de la Llave">Veracruz de Ignacio de la Llave</option>
-							<option value="Yucatán">Yucatán</option>
-							<option value="Zacatecas">Zacatecas</option>
+					  		<option value="">Seleccione el estado</option>
+							<optiion value="Aguascalientes">Aguascalientes</option>
+							<optiion value="Arizona">Arizona</option>
+							<optiion value="Atlanta">Atlanta</option>
+							<optiion value="Baja California">Baja California</option>
+							<optiion value="Baja California Sur">Baja California Sur</option>
+							<optiion value="California">California</option>
+							<optiion value="Campeche">Campeche</option>
+							<optiion value="Chiapas">Chiapas</option>
+							<optiion value="Chihuahua">Chihuahua</option>
+							<optiion value="Ciudad de México">Ciudad de México</option>
+							<optiion value="Coahuila">Coahuila</option>
+							<optiion value="Colima">Colima</option>
+							<optiion value="Colorado">Colorado</option>
+							<optiion value="Connecticut">Connecticut</option>
+							<optiion value="Durango">Durango</option>
+							<optiion value="Guanajuato">Guanajuato</option>
+							<optiion value="Guerrero">Guerrero</option>
+							<optiion value="Hidalgo">Hidalgo</option>
+							<optiion value="Illinois">Illinois</option>
+							<optiion value="Jalisco">Jalisco</option>
+							<optiion value="México">México</option>
+							<optiion value="Michoacán">Michoacán</option>
+							<optiion value="Minnesota">Minnesota</option>
+							<optiion value="Morelos">Morelos</option>
+							<optiion value="Nayarit">Nayarit</option>
+							<optiion value="Nevada">Nevada</option>
+							<optiion value="New York">New York</option>
+							<optiion value="Nuevo León">Nuevo León</option>
+							<optiion value="Oaxaca">Oaxaca</option>
+							<optiion value="Ohio">Ohio</option>
+							<optiion value="Oregon">Oregon</option>
+							<optiion value="Pensilvania">Pensilvania</option>
+							<optiion value="Puebla">Puebla</option>
+							<optiion value="Querétaro">Querétaro</option>
+							<optiion value="Quintana Roo">Quintana Roo</option>
+							<optiion value="San Luis Potosí">San Luis Potosí</option>
+							<optiion value="Sin especificar/Otro">Sin especificar/Otro</option>
+							<optiion value="Sinaloa">Sinaloa</option>
+							<optiion value="Sonora">Sonora</option>
+							<optiion value="Tabasco">Tabasco</option>
+							<optiion value="Tamaulipas">Tamaulipas</option>
+							<optiion value="Texas">Texas</option>
+							<optiion value="Tlaxcala">Tlaxcala</option>
+							<optiion value="UTHA">UTHA</option>
+							<optiion value="Veracruz">Veracruz</option>
+							<optiion value="Washinton">Washinton</option>
+							<optiion value="Yucatán">Yucatán</option>
+							<optiion value="Zacatecas">Zacatecas</option>
 					</select>
   					<!-- -->
   					<label for="interest" class="sr-only">Tema de interes</label>
@@ -287,7 +303,11 @@
 						<option value="Gayosso MED">Gayosso MED</option>
 						<option value="Previsión Gayosso">Previsión Gayosso</option>			  	
 					</select>
-  					<!-- -->
+  					<!-- -->					  
+					<input type="hidden" id="utm_source" name="utm_source"> 
+					<input type="hidden" id="utm_campaign" name="utm_campaign">
+					<input type="hidden" id="utm_content" name="utm_content">
+
   					<button class="btn" type="submit"><a class="btn_light">Solicita información</a></button>
   				</form>
 							</div>

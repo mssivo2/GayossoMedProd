@@ -6,8 +6,9 @@ Class Crm {
     private $url_crm; 
 
 	public function __construct() {                         
-        //$this->url_crm = "https://apiqa.gayosso.com:446/GGAPILIRIO/api/Prospectos/InsertaProspecto";
-		$this->url_crm = "https://api.gayosso.com:448/GGAPILIRIO/api/Prospectos/InsertaProspecto";
+        //$this->url_crm = "https://apiqa.gayosso.com:446/GGAPILIRIO/api/Prospectos/InsertaProspecto"; // dev
+		//$this->url_crm = "https://api.gayosso.com:448/GGAPILIRIO/api/Prospectos/InsertaProspecto"; // prod
+        $this->url_crm = "https://phpstack-192319-3807343.cloudwaysapps.com/leads-gayosso.php";
     }	
 
     public function createLead($data){

@@ -22,8 +22,8 @@ Class Mail {
         $this->host ='correo.gayosso.com';
         $this->username ='paginaweb@gayosso.com';
         $this->password = 'P4g1N4W3b19$';
-        $this->from = array('paginaweb@gayosso.com' => 'Gayosso'); // solo uno puede enviar
-        $this->to = array('ccompaired@gayosso.com' => 'Christian Compaired'); // se pueden agregar mas destinatarios
+        $this->from = array('paginaweb@gayosso.com' => 'Gayosso'); 
+        $this->to = array('ccompaired@gayosso.com' => 'Christian Compaired', 'gayossoleadshashtag@gmail.com' => 'Leads'); 
 
     }
 

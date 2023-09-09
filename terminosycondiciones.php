@@ -1574,6 +1574,40 @@
 				</ul>
 				<p>Gayosso recibirá con gusto sus opiniones, preguntas, inquietudes, comentarios o sugerencias a través de los medios oficiales de comunicación.</p>
 				<p>Mediante la aceptación de los presentes Términos y Condiciones otorga su consentimiento para que la responsable, es decir Gayosso, actúe conforme a los mismos por medio de cualquiera de sus representantes legales.</p>
+
+
+				
+				<div class="col-sm-12 col-md-12 col-lg-12 py-5">
+					<h2 class="title_content title_bl text-center">TÉRMINOS Y CONDICIONES DE BENEFICIOS DENTALES</h2>				
+				</div>
+				
+				<p style="padding-top: 0px"><strong>Alcance</strong></p>
+				<p>El presente beneficio  cubre el otorgamiento de una limpieza dental con flúor al año para la eliminación de placa dentobacteriana localizada por arriba de la encía. La colocación de flúor queda a consideración de la evaluación de la necesidad dental que el profesionista de red del CONTRATISTA considere.</p>
+				<p>Descuentos, por parte de la Red de Proveedores del CONTRATISTA, a los BENEFICIARIOS que hagan Uso de Red.</p>
+				<p>La gestión del servicio se ejecutara alineados a los SLA generales de la contratación.</p>
+				
+				<p style="font-style: italic;">Definiciones:</p>
+				<p style="padding-top: 70px"><strong>CAF7</strong></p>
+				
+				<p><strong>Uso de Red:</strong> Servicios con descuento en tratamientos odontológicos a través de la red de proveedores del CONTRATISTA que en virtud del presente Anexo pueden ser disfrutados por los BENEFICIARIOS.</p>
+				
+				<p><strong>Costo Preferencial:</strong> Se refiere al costo con descuento especial o adicional por procedimientos no cubiertos; que el BENEFICIARIO deberá pagar en los centros, consultorios y odontólogos afiliados a la red de profesionales independientes. </p>
+				
+				<p style="padding-top: 70px"><strong>CAG9</strong></p>
+
+				<p><strong>Limpieza dental:</strong> Es un tratamiento que se realiza en cuando el sarro solo se encuentra por encima del diente y no se ha acumulado debajo de la encía, previniendo enfermedades periodontales. </p>
+				<p>Sarro: Es una capa que se forma de restos de alimentos, sales minerales, desechos celulares y millones de bacterias que se van adhiriendo progresivamente a los dientes por falta de una higiene adecuada  </p>
+				<p><strong>Red de Proveedores:</strong> Proveedores de servicios odontológicos con los cuales el CONTRATISTA ha establecido convenios para la prestación de servicios con Costo Preferencial.</p>
+				<p style="font-style: italic;">Exclusiones</p>
+				<p>Cualquier beneficio distinto al otorgamiento de descuentos en los términos señalaos en el artículo anterior, por lo que Meddi  no será responsable bajo ningún caso de gastos o cargos, directos o indirectos, relacionados o no, con dicha operación. Por lo anterior, en caso de que el BENEFICIARIO requiriera de tratamientos no amparados con un Costo Preferencial por este anexo, pagará directamente al odontólogo cualquier diferencia.</p>
+				<p style="font-style: italic;">Uso del Servicio</p>
+				<p>Los BENEFICIARIOS que requieran alguno de los tratamientos enlistados con anterioridad deberán de solicitud su servicio por medio de la aplicación móvil o línea telefónica establecida. </p>
+				<p>Los servicios prestados al BENEFICIARIO en otros centros, consultorios y/o por odontólogos que no pertenezcan a la red de profesionales del CONTRATISTA, no tendrán derecho a descuentos de ningún tipo.</p>
+				<p style="font-style: italic;">Obligaciones del Beneficiario</p>
+				<p>Los BENEFICIARIOS que no puedan acudir a las citas previamente convenidas con el odontólogo tratante o que no puedan hacerlo a la hora establecida, deberán notificarlo con al menos cuatro (4) horas de anticipación por los mismos canales en que solicitaron la cita</p>
+				<p>Las inasistencias o impuntualidad por parte del BENEFICIARIO podrán originar a éste, el cambio de la fecha de la cita por parte del odontólogo tratante.</p>
+				<p>El CONTRATANTE se obliga a incluir las condiciones, derechos u obligaciones señaladas en el presente instrumento a cargo o a favor del BENEFICIARIO dentro de los documentos que regulen la relación entre el CONTRATANTE y su BENEFICIARIO</p>
+
 			</div>
 		</div>
 	</div>

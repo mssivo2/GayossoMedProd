@@ -121,7 +121,7 @@
 		<div class="background_bl text-center block_contrata">
 			<h2 class="title_content">Si tu ya tienes el Plan de Protección Familiar:</h2>
 			<div class="contd">
-				<p>Contrata Gayosso Med por un costo anual<br> de <strong>$1,199</strong> por <strong>membresía adicional</strong> a tu Plan de Protección Familiar.</p>
+				<p>Contrata Gayosso Med por un costo anual<br> de <strong>$1,299</strong> por <strong>membresía adicional</strong> a tu Plan de Protección Familiar.</p>
 			</div>
 		</div>
 		<!-- -->

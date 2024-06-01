@@ -497,6 +497,37 @@ list-style: none!important
 font-size: 14px;
 color:#00687E!important;
 }
+/* Whatsapp */
+@media (max-width: 480px) {
+  .whatsapp-button {
+    position: fixed;
+    bottom: 0px;
+    right: 10px;
+    cursor: pointer;
+    z-index: 999;
+  }
+  
+  .whatsapp-button img {
+    width: 150px;
+  }
+}
+
+
+@media (min-width: 480px) {
+  .whatsapp-button  {
+    position: fixed;
+    bottom: 0px;
+    right: 10px;
+    cursor: pointer;
+    z-index: 999;
+  }
+  
+  .whatsapp-button img {
+    width: 185px;
+  }
+}
+
+/* fin whatsapp */
 @media (max-width: 820px) {
   #bdy_container .middle-xs {
     -ms-flex-align: center;

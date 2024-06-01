@@ -33,3 +33,7 @@
 		</div>
 	</div>
 </div>
+<!-- Botón de WhatsApp -->
+<a class="whatsapp-button" target="_blank" href="https://api.whatsapp.com/send?phone=525578454478&text=Me%20gustar%C3%ADa%20recibir%20informaci%C3%B3n%20de%20Gayosso">
+  <img class="footer-img" src="./assets/images/whatsapp.png" alt="Chatea con nosotros">
+</a>
